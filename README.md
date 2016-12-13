@@ -120,3 +120,4 @@ y el push
 ```
 git push
 ```
+ESTA ES LA EDICION QUE BERNARDO HIZO DEL README
