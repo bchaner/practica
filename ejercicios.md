@@ -2,3 +2,5 @@
 
 Incluso mejor que las charlas!
 
+cambios hechos a ejercicio desde rama ejercicios
+
